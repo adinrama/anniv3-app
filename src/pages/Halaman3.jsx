@@ -16,7 +16,7 @@ const Halaman3 = () => {
                 <div className="inline-flex align-middle mr-3 text-sm text-gray-900 dark:text-white">
                   <img
                     className="mr-4 w-20 h-20 rounded-full"
-                    src="/rama.jpg"
+                    src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/rama.jpg"
                     alt="Adin Rama Ariyanto Putra"
                   />
                   <div>

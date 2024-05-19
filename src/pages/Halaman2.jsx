@@ -12,7 +12,7 @@ const Halaman2 = () => {
         <article className="group">
           <img
             alt=""
-            src="/90714.jpg"
+            src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/90714.jpg"
             className="h-56 w-full rounded-xl object-cover shadow-xl transition group-hover:grayscale-[50%] dark:shadow-gray-700/25"
           />
 

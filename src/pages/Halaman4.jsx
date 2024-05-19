@@ -12,72 +12,35 @@ const Halaman4 = () => {
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/1707997036763.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1707997036763.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230920_190110_655.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230920_190110_655.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/1707997046973.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1707997046973.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/1715264068938.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1715264068938.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/1707997475818.jpg"
-              alt=""
-            />
-          </div>
-        </div>
-        <div class="grid gap-4">
-          <div>
-            <img
-              class="h-auto max-w-full rounded-lg"
-              src="/cie/1715264122408.jpg"
-              alt=""
-            />
-          </div>
-          <div>
-            <img
-              class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121619_566.jpg"
-              alt=""
-            />
-          </div>
-          <div>
-            <img
-              class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121635_611.jpg"
-              alt=""
-            />
-          </div>
-          <div>
-            <img
-              class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_062232_979.jpg"
-              alt=""
-            />
-          </div>
-          <div>
-            <img
-              class="h-auto max-w-full rounded-lg"
-              src="/cie/1716034751404.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1707997475818.jpg"
               alt=""
             />
           </div>
@@ -86,35 +49,35 @@ const Halaman4 = () => {
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_062224_434.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1715264122408.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121705_020.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121619_566.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230920_190149_673.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121635_611.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/1707997473635.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_062232_979.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_062224_434.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1716034751404.jpg"
               alt=""
             />
           </div>
@@ -123,35 +86,72 @@ const Halaman4 = () => {
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121843_997.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_062224_434.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/1716034995709.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121705_020.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121814_171.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230920_190149_673.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121722_092.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1707997473635.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="h-auto max-w-full rounded-lg"
-              src="/cie/IMG_20230921_121758_566.jpg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_062224_434.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+        <div class="grid gap-4">
+          <div>
+            <img
+              class="h-auto max-w-full rounded-lg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121843_997.jpg"
+              alt=""
+            />
+          </div>
+          <div>
+            <img
+              class="h-auto max-w-full rounded-lg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/1716034995709.jpg"
+              alt=""
+            />
+          </div>
+          <div>
+            <img
+              class="h-auto max-w-full rounded-lg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121814_171.jpg"
+              alt=""
+            />
+          </div>
+          <div>
+            <img
+              class="h-auto max-w-full rounded-lg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121722_092.jpg"
+              alt=""
+            />
+          </div>
+          <div>
+            <img
+              class="h-auto max-w-full rounded-lg"
+              src="https://storage.googleapis.com/bold-upgrade-421902.appspot.com/images/cie/IMG_20230921_121758_566.jpg"
               alt=""
             />
           </div>
